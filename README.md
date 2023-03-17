@@ -14,13 +14,13 @@ A simple application showing the use of Accordians created using ReactJS.
 
 1. Get the source code on your pc via git.
 
-```js
+```shell
   git clone https://github.com/muskanmi/Accordian-ReactJS
 ```
 
 2.  Navigate inside the folder through your terminal.
 
-```js
+```shell
   cd Accordian-ReactJS
 ```
 
